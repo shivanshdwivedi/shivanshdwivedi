@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=shivanshdwivedi&color=blue)
 
 - 🔭 I’m currently working in IncubateIND as Frontend Intern ...
 - 🌱 I’m currently learning Artficial Intelligence...
