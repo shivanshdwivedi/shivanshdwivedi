@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**shivanshdwivedi/shivanshdwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working in IncubateIND as Frontend Intern ...
 - 🌱 I’m currently learning Artficial Intelligence...
@@ -9,4 +7,3 @@
 - 📫 How to reach me: shivanshdwivedi.netlify.app ...
 
 ![Shivansh's github stats](https://github-readme-stats.vercel.app/api?username=shivanshdwivedi&show_icons=true&theme=radical)
--->
