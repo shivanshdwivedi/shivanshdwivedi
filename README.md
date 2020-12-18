@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshdwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshdwivedi" /> </p>
 
-- 🔭 I’m currently working with **IncbateIND as Frontend Intern**
-
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [shivanshdwivedi.netlify.app](shivanshdwivedi.netlify.app)
