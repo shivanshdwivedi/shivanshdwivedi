@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [shivanshdwivedi.netlify.app](shivanshdwivedi.netlify.app)
+- 👨‍💻 All of my projects are available at [https://shivanshdwivedi.netlify.app](https://shivanshdwivedi.netlify.app)
 
 - 📫 How to reach me **shivdwi043@gmail.com**
 
